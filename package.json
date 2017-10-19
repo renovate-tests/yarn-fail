@@ -2,6 +2,7 @@
   "name": "yarn-fail",
   "version": "0.0.1",
   "dependencies": {
+      "@rarkins/notexist": "1.0.0"
     },
     "devDependencies": {
       "left-pad": "^1.0.0"
